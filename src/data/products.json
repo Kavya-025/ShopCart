@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Blue T-shirt",
+        "image": "Blue_T-shirt.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Black trouser",
+        "image": "Black_Trouser.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Red Hoodie",
+        "image": "Red_Hoodie.png"
+    },
+
+    {
+        "id": 4,
+        "name": "Green Dress",
+        "image": "Green_Dress.png"
+    },
+
+    {
+        "id": 5,
+        "name": "Yellow top",
+        "image": "Yellow_top.png"
+    },
+
+    {
+        "id": 6,
+        "name": "Running Shoes",
+        "image": "Running_shoes.png"
+    }
+]
